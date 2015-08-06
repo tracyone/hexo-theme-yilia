@@ -2,7 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  #随笔: /tags/随笔
+  行万里路: /tags/行
+  读万卷书: /tags/读
+  展示: /tags/项目
 
 # SubNav
 subnav:
@@ -10,7 +12,7 @@ subnav:
   weibo: "http://weibo.com/itracyone"
   rss: /atom.xml
   douban: "http://www.douban.com/people/73809193/"
-  mail: "tracyone@live.cn"
+  mail: "mailto:tracyone@live.cn"
   facebook: "https://www.facebook.com/profile.php?id=100009419728044"
   twitter: "https://twitter.com/raoxiaowen"
 
